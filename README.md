@@ -7,4 +7,4 @@
 - [Taller 2](Unidad1/taller2.md)
 
 ## Unidad 2
-- [Actividad Jekyll](Unidad2/actividadjekyll.md)
+- [Actividad Jekyll](Unidad2/jekyll_github_pages.md)
