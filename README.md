@@ -8,6 +8,6 @@
 
 ## Unidad 2
 - [Actividad Jekyll](Unidad2/jekyll_github_pages.md)
-- [Pagina Myblog2]()
+- [Pagina Minimal](https://manufdzdc.github.io/myblog2/)
 - [Pagina Lagrange](https://manufdzdc.github.io/Lagrange/)
-- [Pagina netlify Jekyll-Klise](https://sitiomanuelfernandez.netlify.app/)
+- [Pagina Jekyll-Klise](https://sitiomanuelfernandez.netlify.app/)
