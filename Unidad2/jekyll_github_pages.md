@@ -19,4 +19,4 @@
 - Modificamos el archivo _config.yml para cambiar los datos personales desde GitHub.
 
 ![](img/img7.png)
-Hacemos git pull para traer los cambios hechos online a local.
+- Hacemos git pull para traer los cambios hechos online a local.
